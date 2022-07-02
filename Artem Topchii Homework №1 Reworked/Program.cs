@@ -47,7 +47,7 @@ namespace Project
             return (n / 10, n % 10);
         }
 
-        public static void Main()
+        static void Main()
         {
          //CONVERT HOURS TO MINUTES
 
