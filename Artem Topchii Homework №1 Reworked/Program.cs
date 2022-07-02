@@ -118,6 +118,5 @@ namespace Project
 
             //Console.WriteLine(firstDigit + " + " + secondDigit + " = " + (firstDigit + secondDigit));
         }
-
     }
 }
